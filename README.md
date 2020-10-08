@@ -1,5 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/salesforce_streamer.svg)](https://rubygems.org/gems/salesforce_streamer)
 [![Build Status](https://travis-ci.org/RenoFi/salesforce_streamer.svg?branch=master)](https://travis-ci.org/RenoFi/salesforce_streamer)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fsalesforce_streamer.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fsalesforce_streamer?ref=badge_shield)
 
 # salesforce_streamer
 
@@ -186,3 +187,6 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/renofi
 ## License
 
 The gem is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fsalesforce_streamer.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmichaelcoyote%2Fsalesforce_streamer?ref=badge_large)
